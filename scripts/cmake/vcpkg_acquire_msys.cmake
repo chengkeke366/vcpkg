@@ -1,6 +1,7 @@
 # Full mirror list: https://github.com/msys2/MSYS2-packages/blob/master/pacman-mirrors/mirrorlist.msys
 set(Z_VCPKG_ACQUIRE_MSYS_MIRRORS
     # Alternative primary
+	"https://dev.roombox.xdf.cn/chengkeke/vcpkg_source/-/raw/main/"
     "https://repo.msys2.org/"
     # Tier 1
     "https://mirror.yandex.ru/mirrors/msys2/"
